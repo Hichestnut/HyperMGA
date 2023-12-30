@@ -1,1 +1,1 @@
-this is a project about Momentum Gradient Attack Of Hypergraph Neural Networks.
+This repository contains the code and data reported in the paper HyperMGA: Momentum Gradient Attack Of Hypergraph Neural Networks.
